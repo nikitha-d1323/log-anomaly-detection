@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/system.log
+data/labels.txt
+data/results.csv
+.vscode/
